@@ -6,5 +6,6 @@ public class Main{
     {
         System.out.println("hello");
         System.out.println("From JENKINSBUILDFROMGITHUB");
+        System.out.println("commit one more data   "+new Date());
     }
 }
